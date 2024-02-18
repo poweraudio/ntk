@@ -1,3 +1,11 @@
+PowerAudio fork of NTK
+======================
+
+This fork of NTK has the following changes:
+
+* Replaced `waf` binary blob with https://github.com/drobilla/autowaf.
+
+----------------------------------------------------------------------
 
 # What is NTK? #
 
